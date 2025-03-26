@@ -15,3 +15,5 @@ Simple-WebSocket
 📌 Pré-requisitos
 
 Antes de executar o projeto, instale as dependências necessárias:
+
+pip install flask flask-socketio simple-websocket
